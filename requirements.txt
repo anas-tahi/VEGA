@@ -1,0 +1,29 @@
+# Core
+sounddevice
+google-genai
+google-generativeai
+pillow
+requests
+beautifulsoup4
+duckduckgo-search
+playwright
+pyautogui
+pyperclip
+opencv-python
+numpy
+mss
+psutil
+send2trash
+youtube-transcript-api
+python-pptx
+pyqt6
+
+# Windows-only (comment out on macOS/Linux)
+comtypes
+pycaw
+win10toast
+pywinauto
+pygetwindow
+
+# Build (only needed when packaging to .exe)
+pyinstaller

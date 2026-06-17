@@ -1,0 +1,11 @@
+Anas has a full-stack development profile with strong experience in:
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Node.js, Express, Spring Boot
+- Databases: MongoDB
+- Auth: JWT authentication
+- Design: Figma for UI/UX
+- Tools: Git, GitHub, VSCode
+- Mobile: Android development (Java/Kotlin)
+- AI/ML: Python, working with Gemini API, building AI assistants
+His current project is Vega — a bilingual personal AI desktop assistant built on the Mark XXXIX open source project.
+He previously built a JWT-authenticated car rental platform and SuperComp (an Android price comparison app).

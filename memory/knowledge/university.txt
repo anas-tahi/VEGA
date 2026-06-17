@@ -1,0 +1,5 @@
+Anas studies at Universidad de Granada (UGR), Spain — Master's in Computer Science.
+His coursework includes Software Project Management (GPS).
+He completed GPS assignments centered on a project called "SuperComp" — an Android price comparison app.
+He used ProjectLibre for Gantt/WBS/Network Diagram planning and JIRA (pie2.atlassian.net) for Scrum management.
+Submissions were made via the PRADO platform.

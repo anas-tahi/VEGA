@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Secrets — NEVER commit
+config/api_keys.json
+
+# Memory & personal data
+memory/long_term.json
+memory/morning_state.json
+memory/history.json
+memory/tool_usage.json
+memory/weekly_report.json
+memory/ugr_cache.json
+memory/job_tracker.json
+
+# Build output
+dist/
+build/
+*.spec
+
+# Desktop
+desktop/
+
+# OS
+.DS_Store
+Thumbs.db
